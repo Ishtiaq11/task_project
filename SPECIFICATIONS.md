@@ -36,6 +36,7 @@ Task project
 - Write unittests
 
 ## Instructions
+- Check the existing code base and work from there
 - Follow best practises
 - Write clean code
 - Update Readme

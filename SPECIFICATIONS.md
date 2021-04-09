@@ -8,6 +8,7 @@ Task project
 - Use `postgresql` as database
 
 ## Pages
+Check the models in `survey/models.py`
 - `Home Page` - Shows list of quizzes. Implement pagination.
 - `Detail Page` - Details of a quiz containing options with current vote count. User should be able to choose the option and submit. User will be able to add comments for the quiz.
 

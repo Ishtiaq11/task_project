@@ -1,0 +1,6 @@
+Hello {{name|safe}}
+Here is a comment for that quiz {{quiz|safe}}:
+{{comment|safe}}
+
+
+Thank you!
